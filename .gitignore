@@ -170,3 +170,4 @@ dist
     Blog
     About
 
+*.sqlite
